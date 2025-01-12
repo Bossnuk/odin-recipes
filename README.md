@@ -1,1 +1,1 @@
-# odin-recipes
+This is a basic html website being made to learn about html and file directories.
