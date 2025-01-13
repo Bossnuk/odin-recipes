@@ -1,0 +1,23 @@
+#Title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    background-color : aqua;
+    text-decoration: underline;
+    border: 2px solid black;
+}
+
+#cookingOdin {
+    height: 700px;
+    width:auto;
+}
+
+.container {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; /* Full viewport height */
+}
+
+h1 {
+    text-align: center;
+}
